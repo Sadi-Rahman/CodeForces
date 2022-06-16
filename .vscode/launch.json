@@ -1,15 +1,22 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Launch Theatre_Square_1A",
-            "request": "launch",
-            "mainClass": "Theatre_Square_1A",
-            "projectName": "CodeForces_c23c525f"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Watermelon",
+      "request": "launch",
+      "mainClass": "Watermelon",
+      "projectName": "CodeForces_c23c525f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Theatre_Square_1A",
+      "request": "launch",
+      "mainClass": "Theatre_Square_1A",
+      "projectName": "CodeForces_c23c525f"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Theatre_Square_1A{
+public class Theatre_Square{
 
 static Scanner sr = new Scanner(System.in);
 
